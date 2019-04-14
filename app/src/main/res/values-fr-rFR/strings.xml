@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application test</string>
+    <string name="button_send">ENVOYER</string>
+    <string name="edit_username">Utilisateur</string>
+    <string name="edit_password">Mot de passe</string>
+    <string name="Hello_blank_fragment">Bonjour fragment vide</string>
+</resources>
